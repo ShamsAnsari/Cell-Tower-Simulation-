@@ -1,4 +1,5 @@
 # Cell-Tower-Simulation-
+(WAIT for the demo to load)
 A Cell Tower Simulation implemented with Google Maps API
 
  Open the index.html file in a browser, You will need your own google maps API Key
